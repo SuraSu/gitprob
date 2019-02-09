@@ -1,4 +1,3 @@
 ez az elso
-ez nem masodik
-ez nem harmadik
-ez egy szoveges file
+
+ez egy szoveges fajl
